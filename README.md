@@ -28,7 +28,8 @@ This project models a **solar-powered energy system** with battery storage and d
 
 ```bash
 git clone https://github.com/your-username/solar-energy-simulation.git
-cd solar-energy-simulation
+https://github.com/Garland200/genetic-algorithm-optimized-energy-utilization-system
+cd genetic-algorithm-optimized-energy-utilization-system
 ```
 
 ### 2. Generate Weather Data
