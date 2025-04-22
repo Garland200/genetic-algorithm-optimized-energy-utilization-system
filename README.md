@@ -27,9 +27,7 @@ This project models a **solar-powered energy system** with battery storage and d
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/solar-energy-simulation.git](https://github.com/Garland200/genetic-algorithm-optimized-energy-utilization-system
-)
-https://github.com/Garland200/genetic-algorithm-optimized-energy-utilization-system
+git clone https://github.com/your-username/solar-energy-simulation.git
 cd genetic-algorithm-optimized-energy-utilization-system
 ```
 
