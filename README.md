@@ -130,7 +130,3 @@ This creates `weatherData.mat`, required for simulations.
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
-## 📬 Contact
-
-For questions or contributions, please contact: [[your-email@example.com](mailto\:your-email@example.com)]
-
