@@ -43,7 +43,7 @@ This creates `weatherData.mat`, required for simulations.
 
 ## 💻 MATLAB Requirements
 
-- MATLAB **R2020b** or newer
+- MATLAB **R2022b** or newer
 - No additional toolboxes required
 
 ## ⚙️ Usage
